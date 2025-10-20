@@ -1,0 +1,29 @@
+{
+  "name": "mongo-audit",
+  "version": "1.1.6",
+  "description": "A lightweight MongoDB audit logger using Change Streams.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "keywords": [
+    "mongodb",
+    "audit",
+    "change-stream",
+    "logger",
+    "event"
+  ],
+  "files": [
+  "dist/",
+  "logo.png",
+  "README.md"
+  ],
+  "author": "Ashlesh Shenoy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/mongo-audit.git"
+  },
+  "dependencies": {
+    "mongo-audit": "^1.0.0",
+    "mongodb": "^6.8.0"
+  }
+}

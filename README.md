@@ -1,6 +1,5 @@
 # Mongo-Audit
 
-![Logo](./logo.png)
 
 **Mongo-Audit** is a Node.js package for auditing MongoDB collections using change streams.  
 It captures **before and after document states** for insert, update, and delete operations, and stores them in an audit collection.  
